@@ -1,11 +1,9 @@
 # Project 1
-+ By: *your first and last name*
-+ Production URL: <http://p1.yourdomain.com>
++ By: Haley Sayres
++ Production URL: <http://p1.hcs-dwa15.club>
 
 ## Outside resources
-*your list of outside resources go here*
+*To generate Elon Musk quotes, I used [this site](https://www.inc.com/larry-kim/50-innovation-amp;-success-quotes-from-spacex-founder-elon-musk.html)
 
 
-## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
 
